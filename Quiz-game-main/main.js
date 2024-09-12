@@ -4,9 +4,10 @@ const quizDB = [
         a: "Hello To My Land",
         b: "Hey Text My Language",
         c: "HyperText Markup Languages",
-        d: "Hypertext Markup Language",
+        d: "Hypertext Mark Language",
         ans: "ans4"
     },
+    
     {
         question: "Q2: &lt;a&gt; and &lt;/a&gt; are the tags used for...",
         a: "Adding image",
